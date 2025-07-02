@@ -1,4 +1,4 @@
-# Streamlit Multi-Page 
+![image](https://github.com/user-attachments/assets/66e6e1d8-77e7-42c6-ba4d-1f6f3a3374c1)# Streamlit Multi-Page 
 
 A beginner-friendly, interactive multi-page web app built with [Streamlit](https://streamlit.io/).
 
@@ -11,12 +11,14 @@ A beginner-friendly, interactive multi-page web app built with [Streamlit](https
 
 ## 📁 Folder Structure
 
-streamlit-multipage-dashboard/
+streamlit-multi-page
+```
 ├── app.py
 ├── pages/
 │   ├── 1_Data_Explorer.py
 │   └── 2_Charts.py
 ├── requirements.txt
+```
 
 ## 🚀 Getting Started
 
